@@ -39,4 +39,8 @@ Responsive design principles
 📄 Description:
 This version includes design and content changes compared to the original website. The goal was to enhance visual appeal, readability, and user experience while maintaining a professional e-commerce feel.
 
+#OUTPUT:
+
+img width="724" height="534" alt="I<mage" src="https://github.com/user-attachments/assets/336027d9-e869-4568-b0d2-847668b27116" />
+
 
