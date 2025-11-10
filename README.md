@@ -4,13 +4,13 @@
 
 #Name:Sathya M
 
-#INTERN ID:
+#INTERN ID: CT04DR522
 
 #Domain :UI&UX
 
 #Duration:4 week
 
-#Mentor:Neela
+#Mentor:Neela Santhosh kumarq
 
 task 1 :description
 
